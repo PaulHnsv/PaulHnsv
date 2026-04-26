@@ -1,8 +1,8 @@
-<h1 align="center">Olá, eu sou o Paulo 👋</h1>h1>
+<h1 align="center">Olá, eu sou o Paulo 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer | Senior Analyst @ Avanade (Accenture) · São Paulo, BR</b>b>
-</p>p>
+  <b>Full Stack Developer | Senior Analyst @ Avanade (Accenture) · São Paulo, BR</b>
+</p>
 
 ---
 
@@ -61,21 +61,20 @@ Experiência em projetos de grande porte nos setores público (Governo de Goiás
 ### 🎓 Formação
 
 - **Ciência da Computação** — Universidade Paulista (UNIP), 2023
-- - **Academia Java** — Impacta, 2023
-  -
-  - ---
-  -
-  - ### 📊 GitHub Stats
-  -
-  - <p align="center">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=PaulHnsv&show_icons=true&theme=dark&hide_border=true" />
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulHnsv&layout=compact&theme=dark&hide_border=true" />
-  </p>p>
-  
-  ---
+- **Academia Java** — Impacta, 2023
 
-  ### 📫 Contato
+---
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-neres-dev/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PaulHnsv)
-  </b>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PaulHnsv&show_icons=true&theme=dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulHnsv&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-neres-dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PaulHnsv)
