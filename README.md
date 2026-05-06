@@ -52,9 +52,9 @@ Experiência em projetos de grande porte nos setores público (Governo de Goiás
 | Empresa | Cargo | Período |
 |---|---|---|
 | **Avanade (Accenture)** | Senior Analyst – Full Stack | abr/2026 – presente |
-| **CAST Group** · Governo de Goiás | Desenvolvedor Pleno | dez/2023 – abr/2026 |
-| **ATOS Brasil** · Vale | Desenvolvedor Júnior | set/2021 – dez/2023 |
-| **Digisystem** · Alelo | Desenvolvedor Júnior | mai/2020 – set/2021 |
+| **CAST Group** | Desenvolvedor Pleno | dez/2023 – abr/2026 |
+| **ATOS Brasil** | Desenvolvedor Júnior | set/2021 – dez/2023 |
+| **Digisystem** | Desenvolvedor Júnior | mai/2020 – set/2021 |
 
 ---
 
