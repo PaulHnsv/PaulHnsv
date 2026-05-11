@@ -76,7 +76,7 @@ Experiência em projetos de grande porte nos setores público (Governo de Goiás
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=PaulHnsv&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PaulHnsv&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
